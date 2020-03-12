@@ -1,8 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
+Project contains Text file upload to read the content in it. Drag and drop the Text file or click and upload the file.
 
-In the project directory, you can run:
+Run the below command to clone the GIT Repository
+### git clone https://github.com/venkatpulakunta/symphonyai.git
+
+once you clone using above command, run below command to install all dependencies
+### `npm i`
+once the installation is done run the below command to start the Project
 
 ### `npm start`
 
